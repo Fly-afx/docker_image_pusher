@@ -8,3 +8,7 @@ redis:6.0.6
 nacos/nacos-server:2.0.3
 mysql:5.7
 mysql:8.0.15
+jenkinsci/blueocean
+delron/fastdfs tracker
+delron/fastdfs storage
+rabbitmq:3.12-management
