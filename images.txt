@@ -11,3 +11,4 @@ mysql:8.0.15
 jenkinsci/blueocean
 rabbitmq:3.12-management
 delron/fastdfs
+postgres:16
