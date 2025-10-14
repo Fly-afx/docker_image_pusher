@@ -12,3 +12,5 @@ jenkinsci/blueocean
 rabbitmq:3.12-management
 delron/fastdfs
 postgres:16
+opengauss/opengauss-server:5.0.0
+opengauss/opengauss-server:6.0.0
