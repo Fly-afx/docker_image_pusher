@@ -13,3 +13,4 @@ rabbitmq:3.12-management
 delron/fastdfs
 postgres:16
 mongo:6.0.18
+mongo:4.2
