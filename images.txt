@@ -14,3 +14,4 @@ delron/fastdfs
 postgres:16
 mongo:6.0.18
 mongo:4.2
+redis/redis-stack:7.4.0-v7
